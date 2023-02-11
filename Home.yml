@@ -1,0 +1,11 @@
+title: "Nguyen Ngoc Minh Chau"
+email: ngocminhchau@unist.ac.kr
+description: >-
+
+
+
+baseurl: "/"
+url: "https://ChauNguyen.github.io/"
+sass:
+sass_dir: _sass
+
