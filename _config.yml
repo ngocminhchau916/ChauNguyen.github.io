@@ -1,7 +1,8 @@
 title: "Nguyen Ngoc Minh Chau"
 email: ngocminhchau@unist.ac.kr
-description: >-
-
+description: "UNIST-Ulsan National Institute of Science & Technology"
+lang: "en"
+date_format: "%B %d,%Y"
 
 
 baseurl: "/"
